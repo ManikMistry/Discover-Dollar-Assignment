@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Phone",
+    "id": 1,
+    "children":[
+      {
+        "name":"IQOO",
+        "id":100,
+        "children": [
+          {"id": 10,"name": "IQOO Z6"},
+          {"id": 11,"name": "IQOO Neo 6"},
+          {"id": 12,"name": "IQOO 9"},
+          {"id": 13,"name": "IQOO 9 SE"},
+          {"id": 14,"name": "IQOO 11"},
+          {"id": 15,"name": "IQOO 9T"},
+          {"id": 16,"name": "IQOO Z5"},
+          {"id": 17,"name": "IQOO 7"}
+        ]
+      },
+      {
+        "name":"Realme",
+        "id":101,
+        "children": [
+          {"id": 20,"name": "Realme 9"},
+          {"id": 21,"name": "Realme 9i"},
+          {"id": 22,"name": "Realme C33"},
+          {"id": 23,"name": "Realme C30"},
+          {"id": 24,"name": "Realme 10 Pro"},
+          {"id": 25,"name": "Realme 10 Pro+"},
+          {"id": 26,"name": "Realme Narzo"},
+          {"id": 27,"name": "Realme Narzo 50"}
+        ]
+      },
+      {
+        "name":"Samsung",
+        "id":102,
+        "children": [
+          {"id": 30,"name": "Samsung S21"},
+          {"id": 31,"name": "Samsung M04"}
+        ]
+      },
+      {
+        "name":"Apple",
+        "id":103,
+        "children": [
+          {"id": 40,"name": "iPhone 14"},
+          {"id": 41,"name": "iPhone 14 pro"}
+        ]
+      },
+      {
+        "name":"Mi",
+        "id":104,
+        "children": [
+          {"id": 50,"name": "Xiaomi 11 5G"},
+          {"id": 51,"name": "Redmi 10 Prime"},
+          {"id": 52,"name": "Xiaomi 11i"},
+          {"id": 53,"name": "Redmi Note 11s"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fashion",
+    "id": 2,
+    "children": [
+      {
+        "name": "Men",
+        "id": 105,
+        "children": [
+          { "id": 60,"name": "T-Shirts"},
+          { "id": 61,"name": "Casual Shirts"},
+          { "id": 62,"name": "Jeans"}
+        ]
+      },
+      {
+        "name": "Women",
+        "id": 106,
+        "children": [
+          { "id": 70,"name": "Lehenga Choli"},
+          { "id": 71,"name": "Make up"},
+          { "id": 72,"name": "Skerts"}
+        ]
+      },
+      {
+        "name": "Kids",
+        "id": 107,
+        "children": [
+          { "id": 80,"name": "Toys"},
+          { "id": 81,"name": "Baby care"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronics",
+    "id": 3,
+    "children": [
+      {
+        "name": "TVs",
+        "id": 108,
+        "children": [
+          { "id":90,"name": "Mi"  },
+          { "id":91,"name": "Vu"  },
+          { "id":92,"name": "Thomson" }
+        ]
+      },
+      {
+        "name": "Laptop",
+        "id": 109,
+        "children": [
+          { "id": 1000,"name": "HP"},
+          { "id": 1001,"name": "Dell"},
+          { "id": 1003,"name": "Leneovo"}
+        ]
+      },
+      {
+        "name": "AC",
+        "id": 110,
+        "children": [
+          { "id": 2000,"name": "Inverter AC"},
+          { "id": 2001,"name": "Split ACs"},
+          { "id": 2001,"name": "Window ACs"}
+        ]
+      }
+     
+    ]
+  },
+  {
+    "name": "Health",
+    "id": 4,
+    "children":[
+      {
+        "id": 113,
+        "name": "Hair",
+        "children": [
+          { "id": 5000, "name": "Shampoo" },
+          { "id": 5001, "name": "Conditioner" }
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Face",
+        "children": [
+          { "id": 6000, "name": "Face Wash" },
+          { "id": 6001, "name": "Face Cream" }
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Body",
+        "children": [
+          { "id": 7000, "name": "Body Lotion"  },
+          { "id": 7001, "name": "Body Wash" },
+          { "id": 7002, "name": "Body Soap" }
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Makeup",
+        "children": [
+          { "id": 8000, "name": "Lipstick" },
+          { "id": 8001, "name": "Lip Balm" },
+          { "id": 8002, "name": "Foundation" }
+        ]
+      }
+    ]
+  }
+]
